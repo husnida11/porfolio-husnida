@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul {
+    list-style-type: none;
+}
+
+a {
+text-decoration: none;
+color: #000;
+}
+.footer {
+}
+.container {
+    
+    width: 1920px;
+   padding-left: 120px;
+   padding-right: 120px;
+   padding-top: 300px;
+   margin-right: auto;
+   margin-left: auto;
+
+}
+.footer-inner {
+}
+.footer-img { 
+}
+.footer-box {
+}
+.footer-logo-link {
+}
+.footer-logo-img {
+}
+.footer-simple {
+}
+.footer-img-inner {
+}
